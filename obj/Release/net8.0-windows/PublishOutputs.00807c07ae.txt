@@ -1,0 +1,5 @@
+C:\Users\kevin\source\repos\WindowsApp\bin\Release\net8.0-windows\publish\WindowsApp.exe
+C:\Users\kevin\source\repos\WindowsApp\bin\Release\net8.0-windows\publish\WindowsApp.dll
+C:\Users\kevin\source\repos\WindowsApp\bin\Release\net8.0-windows\publish\WindowsApp.deps.json
+C:\Users\kevin\source\repos\WindowsApp\bin\Release\net8.0-windows\publish\WindowsApp.runtimeconfig.json
+C:\Users\kevin\source\repos\WindowsApp\bin\Release\net8.0-windows\publish\WindowsApp.pdb

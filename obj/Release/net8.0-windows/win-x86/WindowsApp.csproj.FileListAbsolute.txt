@@ -1,0 +1,16 @@
+C:\Users\kevin\source\repos\WindowsApp\bin\Release\net8.0-windows\win-x86\WindowsApp.exe
+C:\Users\kevin\source\repos\WindowsApp\bin\Release\net8.0-windows\win-x86\WindowsApp.deps.json
+C:\Users\kevin\source\repos\WindowsApp\bin\Release\net8.0-windows\win-x86\WindowsApp.runtimeconfig.json
+C:\Users\kevin\source\repos\WindowsApp\bin\Release\net8.0-windows\win-x86\WindowsApp.dll
+C:\Users\kevin\source\repos\WindowsApp\bin\Release\net8.0-windows\win-x86\WindowsApp.pdb
+C:\Users\kevin\source\repos\WindowsApp\obj\Release\net8.0-windows\win-x86\WindowsApp.Form1.resources
+C:\Users\kevin\source\repos\WindowsApp\obj\Release\net8.0-windows\win-x86\WindowsApp.csproj.GenerateResource.cache
+C:\Users\kevin\source\repos\WindowsApp\obj\Release\net8.0-windows\win-x86\WindowsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\WindowsApp\obj\Release\net8.0-windows\win-x86\WindowsApp.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\WindowsApp\obj\Release\net8.0-windows\win-x86\WindowsApp.AssemblyInfo.cs
+C:\Users\kevin\source\repos\WindowsApp\obj\Release\net8.0-windows\win-x86\WindowsApp.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\WindowsApp\obj\Release\net8.0-windows\win-x86\WindowsApp.dll
+C:\Users\kevin\source\repos\WindowsApp\obj\Release\net8.0-windows\win-x86\refint\WindowsApp.dll
+C:\Users\kevin\source\repos\WindowsApp\obj\Release\net8.0-windows\win-x86\WindowsApp.pdb
+C:\Users\kevin\source\repos\WindowsApp\obj\Release\net8.0-windows\win-x86\WindowsApp.genruntimeconfig.cache
+C:\Users\kevin\source\repos\WindowsApp\obj\Release\net8.0-windows\win-x86\ref\WindowsApp.dll

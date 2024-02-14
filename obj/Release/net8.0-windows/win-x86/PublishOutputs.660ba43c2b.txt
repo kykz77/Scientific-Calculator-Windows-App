@@ -1,0 +1,2 @@
+C:\Users\kevin\source\repos\WindowsApp\bin\Release\net8.0-windows\publish\win-x86\WindowsApp.pdb
+C:\Users\kevin\source\repos\WindowsApp\bin\Release\net8.0-windows\publish\win-x86\WindowsApp.exe
